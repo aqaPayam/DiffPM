@@ -1,0 +1,14 @@
+{
+    "window_size": 10,
+    "feature_dim": 1,
+    "emb_dim": 16,
+    "base_channels": 8,
+    "num_res_blocks": 1,
+    "num_timesteps": 50,
+    "schedule_s": 0.008,
+    "stat_loss_weight": 100,
+    "lr": 0.001,
+    "batch_size": 32,
+    "num_epochs": 1000,
+    "device": "cpu"
+}
